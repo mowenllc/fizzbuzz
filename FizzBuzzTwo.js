@@ -1,13 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>FizzBuss</title>
-</head>
-<body>
-
-<div>
-<script type="text/javascript">
 var number = prompt("Please Enter A Number Greater Than 50");
 parseInt(number);
 var numberCount = number;
@@ -33,9 +23,3 @@ for (count = 1; count <= numberCount; count++){
 		document.write("<p>" + count + "</p>");
 	}
 }
-</script>
-</div>
-
-</body>
-	<script src="//code.jquery.com/jquery.min.js"></script>
-</html>
